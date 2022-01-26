@@ -1,0 +1,19 @@
+{
+  "name": "admin/SaveToBD",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Borzunov Rostyslav",
+      "email": "wr2st12@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "7.0",
+    "ext-json": "*",
+    "ext-pdo": "*"
+  }
+}
